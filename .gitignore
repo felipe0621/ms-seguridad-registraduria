@@ -1,8 +1,10 @@
+#String de conexión con Mongo DB 
+secrets.properties
 # Compiled class file
 *.class
 
 # Log file
-*.log
+*.loggit
 
 # BlueJ files
 *.ctxt
